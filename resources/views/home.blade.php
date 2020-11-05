@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+    sssssss
     <div class="content-box">
         <div class="headline d-flex justify-between align-center">
             <h1>
